@@ -1,5 +1,5 @@
 # Accident
-Identify if an accident is a car-related accident or a bike-related accident.
+Using Deep Learning to see if an accident is a car-related accident or a bike-related accident.
 
 
 Predicting if an accident is a car_accident or a bike_accident using the super powerful fastai library. 
